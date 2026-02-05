@@ -15,12 +15,5 @@
       <guid>https://jay-juice.github.io/Blog/projects/hugo-framework/</guid>
       <description>A fast and flexible static site generator built with Go, powering thousands of websites worldwide.</description>
     </item>
-    <item>
-      <title>Hugo Narrow Theme</title>
-      <link>https://jay-juice.github.io/Blog/projects/hugo-narrow-theme/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>https://jay-juice.github.io/Blog/projects/hugo-narrow-theme/</guid>
-      <description>A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4.</description>
-    </item>
   </channel>
 </rss>

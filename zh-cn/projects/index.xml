@@ -15,12 +15,5 @@
       <guid>https://jay-juice.github.io/Blog/zh-cn/projects/hugo-framework/</guid>
       <description>使用 Go 构建的快速灵活的静态站点生成器，为全球数千个网站提供支持。</description>
     </item>
-    <item>
-      <title>Hugo Narrow 主题</title>
-      <link>https://jay-juice.github.io/Blog/zh-cn/projects/hugo-narrow-theme/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>https://jay-juice.github.io/Blog/zh-cn/projects/hugo-narrow-theme/</guid>
-      <description>基于 TailwindCSS 4 构建的现代 Hugo 主题，支持多种配色方案、暗色模式和响应式设计。</description>
-    </item>
   </channel>
 </rss>

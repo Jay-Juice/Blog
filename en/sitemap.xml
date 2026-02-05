@@ -2,27 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jay-juice.github.io/Blog/posts/newnew/</loc>
-    <lastmod>2026-02-05T20:37:50+08:00</lastmod>
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/posts/</loc>
-    <lastmod>2026-02-05T20:37:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/posts/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/posts/myfirstblog/</loc>
-    <lastmod>2026-02-03T22:37:59+08:00</lastmod>
-  </url><url>
     <loc>https://jay-juice.github.io/Blog/</loc>
-    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -35,7 +16,7 @@
                 />
   </url><url>
     <loc>https://jay-juice.github.io/Blog/categories/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
@@ -46,74 +27,6 @@
                 hreflang="en-US"
                 href="https://jay-juice.github.io/Blog/categories/"
                 />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/series/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/series/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/categories/shortcode/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/categories/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/categories/shortcode/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/tags/shortcode/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/tags/shortcode/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/posts/shortcodes/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/posts/%E7%9F%AD%E4%BB%A3%E7%A0%81/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/posts/shortcodes/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/tags/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/tags/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/series/test/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jay-juice.github.io/Blog/tags/go/</loc>
     <lastmod>2024-02-20T14:30:00+08:00</lastmod>
@@ -173,66 +86,24 @@
     <loc>https://jay-juice.github.io/Blog/tags/static-site-generator/</loc>
     <lastmod>2024-02-20T14:30:00+08:00</lastmod>
   </url><url>
+    <loc>https://jay-juice.github.io/Blog/tags/</loc>
+    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://jay-juice.github.io/Blog/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://jay-juice.github.io/Blog/tags/"
+                />
+  </url><url>
     <loc>https://jay-juice.github.io/Blog/tags/web-development/</loc>
     <lastmod>2024-02-20T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://jay-juice.github.io/Blog/categories/gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/tags/gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/posts/image-gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/posts/%E5%9B%BE%E5%BA%93/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/posts/image-gallery/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/tags/hugo/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/projects/hugo-narrow-theme/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/projects/hugo-narrow-theme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/projects/hugo-narrow-theme/"
-                />
-  </url><url>
     <loc>https://jay-juice.github.io/Blog/categories/markdown/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/categories/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/categories/markdown/"
-                />
   </url><url>
     <loc>https://jay-juice.github.io/Blog/tags/markdown/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
@@ -249,29 +120,6 @@
   </url><url>
     <loc>https://jay-juice.github.io/Blog/posts/markdown-syntax-guide/</loc>
     <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/posts/markdown-%E8%AF%AD%E6%B3%95%E6%8C%87%E5%8D%97/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/posts/markdown-syntax-guide/"
-                />
-  </url><url>
-    <loc>https://jay-juice.github.io/Blog/tags/tailwind-css/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-CN"
-                href="https://jay-juice.github.io/Blog/zh-cn/tags/tailwind-css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://jay-juice.github.io/Blog/tags/tailwind-css/"
-                />
   </url><url>
     <loc>https://jay-juice.github.io/Blog/about/</loc>
     <lastmod>2024-01-01T00:00:00+08:00</lastmod>
@@ -296,6 +144,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://jay-juice.github.io/Blog/archives/"
+                />
+  </url><url>
+    <loc>https://jay-juice.github.io/Blog/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-CN"
+                href="https://jay-juice.github.io/Blog/zh-cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://jay-juice.github.io/Blog/series/"
                 />
   </url>
 </urlset>
